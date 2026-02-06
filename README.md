@@ -1,6 +1,6 @@
 # Filter Gaps in Multiple Sequence Alignment
 
-<a href="https://doi.org/10.5281/zenodo.16736722"><img src="https://zenodo.org/badge/759921808.svg" alt="DOI"></a>
+<a href="https://doi.org/10.5281/zenodo.16744413"><img src="https://zenodo.org/badge/1021532080.svg" alt="DOI"></a>
 
 This Python script filters out sequences from a multiple sequence alignment (in FASTA format) that contain gaps (-) at specified positions.
 ## Requirements
